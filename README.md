@@ -39,4 +39,3 @@ Moving object detection is a technique used in computer vision and image process
 
 ## Demonstration
 <a href="https://miro.medium.com/max/640/1*gJmQdjT3YcGCcZ2H1PK7SA.gif"> </a>
-![](Media/Detect.gif)
